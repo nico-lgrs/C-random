@@ -1,5 +1,5 @@
 Add capabilites for :
     - floating point number
-    - Being able to tweak the distribution (for example normal ditribution)
+    - Being able to tweak the distribution (for example normal distribution)
 
 Implement other algorithms
